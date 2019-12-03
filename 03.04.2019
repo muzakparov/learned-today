@@ -1,0 +1,2 @@
+learn that object have property descriptors - Object.getOwnPropertyDescriptor() 
+this can configure property - writable, enumerable, configurable
